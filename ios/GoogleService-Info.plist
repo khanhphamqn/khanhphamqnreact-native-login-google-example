@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1050862552554-qpokmiu3l5tj8pou382bu3pvhp6fpbgv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1050862552554-qpokmiu3l5tj8pou382bu3pvhp6fpbgv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJFlqge8eh4Z8je0p8bCLLpCNfbbYAdvA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1050862552554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.loginGoogle</string>
+	<key>PROJECT_ID</key>
+	<string>lottery-bb2e1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lottery-bb2e1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1050862552554:ios:0c40075c4e548201</string>
+	<key>DATABASE_URL</key>
+	<string>https://lottery-bb2e1.firebaseio.com</string>
+</dict>
+</plist>
