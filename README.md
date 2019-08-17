@@ -7,3 +7,6 @@ Google Sign-In SDK 4.4.0
 "react-native-google-signin": "^2.0.0"  
 # Image
 ![Example](/example.png)
+# how to make it work
+Please create an app on firebase and then download GoogleService-Info.plist and replace mine and modify REVERSED_CLIENT_ID found in GoogleService-Info.plist
+![Example](https://raw.githubusercontent.com/react-native-community/react-native-google-signin/master/img/urlTypes.png)
